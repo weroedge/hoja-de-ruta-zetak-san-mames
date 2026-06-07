@@ -2,3 +2,15 @@ Sincronizar_Dossier.bat
 PLANOS.lnk
 desktop.ini
 .DS_Store
+
+# Google Drive virtual files
+*.gsheet
+*.gdoc
+*.gslides
+*.gdraw
+*.gtable
+*.gform
+*.gshortcut
+*.gmap
+*.gsite
+
